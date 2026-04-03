@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shilpa S
 
-<!--
-**shilpa-stats/shilpa-stats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics graduate aspiring to become a Data Analyst.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Statistics
+R Programming
+Python
+Power BI
+Data Analysis
+Time Series Forecasting
+Data Visualization
+
+## Projects
+
+Rice Yield Forecasting (Time Series Analysis)
+Supply Chain Inventory Dashboard (Power BI)
+Retail Customer Analytics (Python)
+Mental Health Statistical Survey
+
+## Internship
+
+Data Analytics Internship involving real world data analysis and reporting.
+
+## Tools
+
+R
+Python
+Power BI
+Excel
+Google Colab
+
+## Career Interest
+
+Data Analyst
+Business Analyst
+Junior Data Scientist
+
+## Contact
+
+LinkedIn: (add later)
+Email: (optional)
